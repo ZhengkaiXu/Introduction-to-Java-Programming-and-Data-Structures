@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Introduction-to-Java-Programming-and-Data-Structures.iml" filepath="$PROJECT_DIR$/Introduction-to-Java-Programming-and-Data-Structures.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch3/ch3.iml" filepath="$PROJECT_DIR$/ch3/ch3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ch4/ch4.iml" filepath="$PROJECT_DIR$/ch4/ch4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch4111/ch4111.iml" filepath="$PROJECT_DIR$/ch4111/ch4111.iml" />
     </modules>
   </component>
 </project>
