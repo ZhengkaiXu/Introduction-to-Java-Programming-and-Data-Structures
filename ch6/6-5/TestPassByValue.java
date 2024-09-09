@@ -1,4 +1,4 @@
-public class TestPassbyValue {
+public class TestPassByValue {
     /** Main method */
     public static void main(String[] args) {
         // Declare an initialize variables
