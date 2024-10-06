@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="559af0e8-6611-4250-9d0d-ce7489fb3656" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2kpvYYGkKVSroBIE6iZS6XWfQLf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AdditionQuiz.executor": "Run",
+    "Application.ChineseZodiac.executor": "Run",
+    "Application.ComputeAndIntegerpretBMI.executor": "Run",
+    "Application.ComputeAngles.executor": "Run",
+    "Application.ComputeArea.executor": "Run",
+    "Application.ComputeAreaWithConsoleInput.executor": "Run",
+    "Application.ComputeAreaWithContant.executor": "Run",
+    "Application.ComputeAverage.executor": "Run",
+    "Application.ComputeChange.executor": "Run",
+    "Application.ComputeExpression.executor": "Run",
+    "Application.ComputeTax.executor": "Run",
+    "Application.ComputerLoan.executor": "Run",
+    "Application.DisplayTime.executor": "Run",
+    "Application.FahrenheitToCelsius.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.Lottery.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.SalesTax.executor": "Run",
+    "Application.ShowCurrentTime.executor": "Run",
+    "Application.ShowLogicErrors.executor": "Run",
+    "Application.ShowRuntimeErrors.executor": "Run",
+    "Application.SimpleIfDemo.executor": "Run",
+    "Application.SubtractionQuiz.executor": "Run",
+    "Application.TestBooleanOperators.executor": "Run",
+    "Application.Welcome.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ide.FileNotInSourceRootChecker.no.check": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/xuzhengkai/Desktop/study/Introduction-to-Java-Programming-and-Data-Structures",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/xuzhengkai/Desktop/study/Introduction-to-Java-Programming-and-Data-Structures/ch4/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch6/6-10" />
+      <recent name="$PROJECT_DIR$/ch6/6-11" />
+      <recent name="$PROJECT_DIR$/ch4/ch4" />
+      <recent name="$PROJECT_DIR$/ch3/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ComputeAngles">
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="Introduction-to-Java-Programming-and-Data-Structures" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Introduction-to-Java-Programming-and-Data-Structures" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ChineseZodiac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChineseZodiac" />
+      <module name="ch3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputeAngles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComputeAngles" />
+      <module name="ch4111" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeapYear" />
+      <module name="ch3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lottery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lottery" />
+      <module name="ch3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ch4111" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ComputeAngles" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ChineseZodiac" />
+        <item itemvalue="Application.Lottery" />
+        <item itemvalue="Application.LeapYear" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="559af0e8-6611-4250-9d0d-ce7489fb3656" name="Changes" comment="" />
+      <created>1723993380945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723993380945</updated>
+      <workItem from="1723993381957" duration="2453000" />
+      <workItem from="1724030130430" duration="5000" />
+      <workItem from="1724041408682" duration="1451000" />
+      <workItem from="1724258635184" duration="3535000" />
+      <workItem from="1724262780712" duration="656000" />
+      <workItem from="1724290165410" duration="3000" />
+      <workItem from="1724500316386" duration="3717000" />
+      <workItem from="1724510786780" duration="15042000" />
+      <workItem from="1724600832287" duration="2751000" />
+      <workItem from="1724635329487" duration="343000" />
+      <workItem from="1725727807772" duration="1010000" />
+      <workItem from="1725728938046" duration="3000" />
+      <workItem from="1725728951210" duration="74000" />
+      <workItem from="1725729052172" duration="14000" />
+      <workItem from="1725729648884" duration="3000" />
+      <workItem from="1725729676117" duration="4149000" />
+      <workItem from="1725761622433" duration="8078000" />
+      <workItem from="1725776943906" duration="20502000" />
+      <workItem from="1725803761430" duration="5235000" />
+      <workItem from="1725893012808" duration="5000" />
+      <workItem from="1725893022674" duration="4852000" />
+      <workItem from="1725992542656" duration="54000" />
+      <workItem from="1726018696054" duration="19000" />
+      <workItem from="1726320429803" duration="646000" />
+      <workItem from="1728200422960" duration="1577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ch2/FahrenheitToCelsius.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ch2/ComputeChange.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ch3/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ch4111/ch4/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
